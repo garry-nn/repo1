@@ -1,3 +1,3 @@
-# This is the test repo
+# This is the temp repo
 
-I'm learning to push, pull and branching
+Для поддержки курса
