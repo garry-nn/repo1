@@ -19,5 +19,7 @@
 11. Lesson11. [Эффективность оценки. Функция правдоподобия, Оценки максимального правдоподобия](https://github.com/garry-nn/repo1/tree/main/Lesson11) 
 12. Lesson12. [Информация Фишера и оценка Рао-Крамера дисперсии эффективной оценки](https://github.com/garry-nn/repo1/tree/main/Lesson12) 
 13. Lesson13. [Порядковые статистики. Хи-квадрат, Логнормальное и распределение Симпсона](https://github.com/garry-nn/repo1/tree/main/Lesson13) 
-\\
+  
+(продолжение следует ...)  
+
 ![Матбаза_Дискорд_анонс_старта](https://github.com/garry-nn/repo1/assets/102152292/2d2ddd04-606e-49a5-80a3-d02ae6d1b2e9)
